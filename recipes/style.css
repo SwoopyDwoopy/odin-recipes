@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.goat,
+.chowmein {
+    width: 700px;
+    height: auto;
+}
+
+.rajma {
+    width: 600px;
+    height: 700px;
+}
